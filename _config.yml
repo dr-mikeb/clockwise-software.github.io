@@ -1,1 +1,51 @@
-theme: jekyll-theme-minimal
+# Site settings
+course_name: Software Engineering Bootcamp
+course_description: The bootcamp project will be the development of a system for identifying employees based upon their project areas. At the end, the final product will be a product that allows for matching people with specific skills to matching proposal requirements.
+course_semester: Spring 2021
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://clockwise-software.github.io" # the base hostname & protocol for your site
+
+schoolname: "CLOCKWISE-SOFTWARE"
+schoolurl: "https://www.uwyo.edu/cedar"
+twitter_username: uwcedar
+
+address: |
+    Wyoming
+    Cardiff
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
