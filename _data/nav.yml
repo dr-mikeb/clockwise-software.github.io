@@ -11,13 +11,13 @@ items:
   name: Lectures
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
-  icon_class: fas fa-user-graduate
+- url: /modules/
+  name: modules
+  icon_class: fas fa-tasks
 
 - url: /project/
   name: Project
-  icon_class: fas fa-user-graduate
+  icon_class: fas fa-window-maximize
 
 - url: /materials/
   name: Materials
