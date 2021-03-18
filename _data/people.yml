@@ -1,12 +1,18 @@
-instructors:
-  - name: Mike Borowczak
-  - name: Ruben Gamboa
+Partners:
+  - name: Casper College
+  - name: Central Wyoming College
+  - name: Eastern Wyoming College
+  - name: Laramie County Community College
+  - name: Northern Wyoming Community College District
+  - name: Northwest College
+  - name: Western Wyoming Community College
+  - name: University of Wyoming
+  - name: Cardiff University
+  - name: Trihydro
 
-teaching_assistants:
-  - name: Rafer Cooley
+Teams:
+  - name: Team1
 
-  - name: Mason Johnson
+  - name: Team2
 
-  - name: Daniel Radosevich
-
-  - name: Shaya Wolf
+  - name: Team3
