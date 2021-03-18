@@ -1,6 +1,6 @@
 ---
-layout: assignments
-title: Assignments
-permalink: /assignments/
+layout: modules
+title: Modules
+permalink: /modules/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+You can download the modules here. Also check out each assignment page for any additional info.

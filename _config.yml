@@ -37,7 +37,7 @@ collections:
         output: true
     lectures:
         output: true
-    assignments:
+    modules:
         output: true
     announcements:
         output: false
@@ -46,6 +46,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "assignments"
+      type: "modules"
     values:
-      layout: "assignment"
+      layout: "module"
