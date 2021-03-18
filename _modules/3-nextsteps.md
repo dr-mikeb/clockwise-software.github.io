@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-04-03T15:00:00-0600
 title: 'Next Steps'
 hide_from_announcments: true

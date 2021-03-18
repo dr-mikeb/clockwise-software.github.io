@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-03-27T09:30:00-0600
 title: 'Meet & Greet'
 hide_from_announcments: true

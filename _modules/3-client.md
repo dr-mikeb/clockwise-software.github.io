@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-04-03T14:00:00-0600
 title: 'Client 1:1'
 hide_from_announcments: true

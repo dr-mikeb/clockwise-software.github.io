@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-03-27T12:00:00-0600
 title: 'Environment'
 hide_from_announcments: true

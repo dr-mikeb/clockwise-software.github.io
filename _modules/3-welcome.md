@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-04-03T08:30:00-0600
 title: 'Group Welcome'
 hide_from_announcments: true

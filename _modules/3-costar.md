@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-04-03T11:00:00-0600
 title: 'COSTAR and RIIS'
 hide_from_announcments: true

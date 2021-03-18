@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-03-27T10:30:00-0600
 title: 'Meet the Mentors'
 hide_from_announcments: true

@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: module
 date: 2021-04-03T12:30:00-0600
 title: 'Lunch & Demo'
 hide_from_announcments: true
