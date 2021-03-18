@@ -34,7 +34,7 @@ layout: default
 
             <div class="profile-pic-gallary ">
                 <h2>Partners</h2>
-                {% for ins in site.data.people.instructors %}
+                {% for ins in site.data.people.partners %}
                 <div class="image--cover-container">
                     {% if ins.webpage %}
                     <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
@@ -49,7 +49,7 @@ layout: default
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
                 <h2>Teams</h2>
-                {% for ta in site.data.people.teaching_assistants %}
+                {% for ta in site.data.people.teams %}
                 <div class="image--cover-container">
                     {% if ta.webpage %}
                     <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
