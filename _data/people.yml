@@ -1,4 +1,4 @@
-Partners:
+partners:
   - name: Casper College
   - name: Central Wyoming College
   - name: Eastern Wyoming College
@@ -9,7 +9,8 @@ Partners:
   - name: University of Wyoming
   - name: Cardiff University
   - name: Trihydro
-Teams:
+  
+teams:
   - name: Team One
   - name: Team Two
   - name: Team Three
