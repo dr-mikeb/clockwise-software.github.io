@@ -19,9 +19,7 @@ layout: default
 
         {% assign all_module_dues = site.modules | map: "due_event" %}
 
-        {% assign all_events = site.events | concat: site.lectures %}
         {% assign all_events = all_events | concat: site.modules %}
-        {% assign all_events = all_events | concat: all_module_dues %}
 
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
