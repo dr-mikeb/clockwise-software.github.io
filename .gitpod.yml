@@ -2,5 +2,7 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: bundle install
-  bundle exec jekyll serve --watch
+  - init: >
+      bundle install
+  - command: >
+      bundle exec jekyll serve --watch
